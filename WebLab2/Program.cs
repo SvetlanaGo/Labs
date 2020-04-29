@@ -9,7 +9,6 @@ using Microsoft.Extensions.Logging;
 
 namespace WebLab2
 {
-
     public class Program
     {
         public static void Main(string[] args)
